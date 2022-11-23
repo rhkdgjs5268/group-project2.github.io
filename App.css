@@ -1,0 +1,38 @@
+body {
+  padding: 1rem;
+  background-color: rgb(245, 241, 241);
+}
+
+.mo {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 43%;
+  height: 50%;
+  padding: 2rem;
+}
+
+.do {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  padding-top: 2rem;
+}
+
+a {
+  text-decoration: none;
+  font-size: 24px;
+  padding: 1rem;
+}
+
+.imgs {
+  width: 700px;
+  height: 550px;
+}
+
+li {
+  padding-top: 0.5rem;
+}
